@@ -1,143 +1,93 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/60511607?v=4" width="110" style="border-radius:50%" alt="Rafael Maldivas"/>
+<img src="https://avatars.githubusercontent.com/u/60511607?v=4" width="120" style="border-radius:50%" alt="Maldivas Tech" />
 
-# Rafael Paiva · `MaldivaSky`
+# Maldivas Tech
 
-### Desenvolvedor Fullstack · Análise de Dados & BI
+### Tecnologia que a operação usa todo dia
 
-**Transformo problemas reais de negócio em software que roda em produção.**
+Software sob medida, sistemas de gestão e presença digital — **do modelo de dados ao
+anúncio no ar**.
 
-Fullstack (Python · TypeScript · React) com background de +10 anos em vendas e inteligência de mercado.
-Uno engenharia de software, análise de dados e visão de negócio — código que gera decisão, não só telas.
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-rafael--maldivas.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://rafael-maldivas.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Paiva_Dias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-paiva-dias-da-silva-022b17122/)
-[![Email](https://img.shields.io/badge/Email-rafaelmaldivas@gmail.com-C9A84C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelmaldivas@gmail.com)
+[![Site](https://img.shields.io/badge/Site-rafael--maldivas.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://rafael-maldivas.vercel.app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Falar%20com%20a%20equipe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511919889233)
+[![E-mail](https://img.shields.io/badge/E--mail-rafaelmaldivas@gmail.com-C9A84C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelmaldivas@gmail.com)
 
 </div>
 
 ---
 
-## 👋 Sobre
+## Quem somos
 
-Sou **Rafael Maldivas**, graduado em Análise e Desenvolvimento de Sistemas (IFSP). Construo **plataformas SaaS multi-tenant, ERPs com emissão fiscal e apps com IA — em produção.**
+A **Maldivas Tech** é a consultoria de tecnologia de **Rafael Paiva Dias da Silva**
+(CNPJ 68.923.239/0001-77), em São Paulo. Desenvolvemos sistemas de gestão, cuidamos da
+infraestrutura de TI e de e-mail corporativo e entregamos presença digital com conteúdo.
 
-Antes de escrever uma linha de código, entendo o problema: o fluxo do negócio, o que trava o cliente, o que faz ele perder dinheiro. Depois entrego a solução certa — sem over-engineering, sem enrolação. A tecnologia é consequência do problema, não vitrine.
+Trabalhamos com **contrato e nota fiscal**, atendimento local e remoto. Nossos sistemas
+rodam em produção em operações reais — restaurantes, varejo e recrutamento.
 
-- 🎯 **Arquitetura multi-tenant** com isolamento *fail-closed* no ORM, RLS e resiliência transacional
-- - 🧾 **Integração fiscal real** — NFC-e/NF-e via SEFAZ, PIX com webhook, conformidade tributária (NCM/CEST/CFOP)
-  - - 📊 **Análise de dados aplicada** — Curva ABC, RFM, DRE, previsão de ruptura, Power BI
-    - - 🧩 **Do banco ao deploy** — backend, frontend, PostgreSQL, Docker e CI/CD
-      - - 🌍 São Paulo · Brasil · **Remoto** · Aberto a novas oportunidades
-       
-        - ---
+- **Software sob medida** — ERP, PDV fiscal, marketplace, ATS e SaaS multi-tenant
+- **Integrações homologadas** — iFood e WhatsApp Business API; provedora de tecnologia verificada pela Meta
+- **TI gerenciada** — responsável técnico, backups verificados e e-mail com SPF, DKIM e DMARC
+- **Presença digital** — sites, SEO local, tráfego pago e produção audiovisual com drone
 
-        ## 🛠️ Stack
+---
 
-        **Backend & Dados**
+## Nossos produtos
 
-        ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-        ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-        ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-        ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-        ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-        ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-        ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-        ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-        ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+### mercadinhosys — ERP multi-tenant com PDV fiscal
 
-        **Frontend**
+Gestão comercial completa: vendas, estoque, recebimentos e Business Intelligence. Motor
+fiscal **NFC-e/NF-e** via SEFAZ, multi-tenancy isolado e BI com Curva ABC, RFM e DRE.
 
-        ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-        ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-        ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-        ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-        ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+`React` `TypeScript` `Flask` `PostgreSQL` `Docker`
 
-        **DevOps & Ferramentas**
+### MiseOn — SaaS para food service
 
-        ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-        ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-        ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-        ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+Cardápio digital, pedidos em tempo real, **PIX confirmado por webhook** e estoque com
+baixa por ficha técnica. Multi-tenant, com painel PWA e integrações de delivery.
 
-        ---
+`React 19` `TypeScript` `Supabase/RLS` `Deno` `PWA`
 
-        ## ⭐ Carro-chefe — MercadinhoSys `v5.0 Enterprise`
+### MySuperStore — marketplace multi-vendedor
 
-        > **Plataforma SaaS multi-tenant de gestão comercial e e-commerce.** ERP, PDV fiscal, recebimentos e Business Intelligence numa única plataforma na nuvem — *production ready*.
-        >
-        > 🔗 **Repositório:** [github.com/MaldivaSky/mercadinhosys](https://github.com/MaldivaSky/mercadinhosys) · 🚀 **Demo:** [mercadinhosys.vercel.app](https://mercadinhosys.vercel.app)
-        >
-        > **Engenharia que faz a diferença:**
-        >
-        > - 🏢 **Multi-tenancy isolado (fail-closed):** toda query é blindada pelo `TenantQuery` no ORM — um lojista nunca acessa dado de outro, nem por injection; rotas sem tenant resolvido recebem `403`.
-        > - - 🛡️ **Resiliência transacional:** *savepoints* aninhados (`begin_nested` / psycopg2) isolam falhas pontuais (ex.: schema drift) para que o fechamento de venda no PDV **nunca aborte** a transação principal — zero-downtime.
-        >   - - 🧾 **Motor fiscal NFC-e/NF-e:** emissão nativa via **Focus NFe → SEFAZ**, tratativa de rejeições, DANFE com QR Code e **travas de conformidade** (bloqueia emissão sem NCM/CEST/CFOP válido).
-        >     - - 📦 **Catálogo inteligente:** *harvester* por código de barras (**API Cosmos/Bluesoft**) com **cache negativo TTL 7 dias** p/ preservar quota + **importação de XML** de nota de entrada (EAN, NCM, lotes, custos).
-        >       - - 📊 **BI científico:** dashboards em tempo real, **Curva ABC (Pareto)**, **RFM de clientes**, previsão de ruptura de estoque e **DRE** automática (despesas × faturamento líquido).
-        >         - - 📱 **PWA mobile-first:** painel SaaS, seletor de tenant e auditoria na palma da mão; impersonação de lojista em 1 clique para suporte.
-        >           - - 🧪 **Qualidade & deploy:** **41 testes pytest** nos pontos críticos, CI no **GitHub Actions** (typecheck + build + testes), deploy automático **Vercel + Render** e migrações seguras com Flask-Migrate.
-        >            
-        >             - `React 18` `TypeScript` `Flask` `SQLAlchemy` `PostgreSQL` `Docker` `Focus NFe` `API Cosmos` `CI/CD`
-        >            
-        >             - ---
-        >
-        > ## 🚀 Outros projetos em produção
-        >
-        > ### 🍔 [MiseOn](https://github.com/MaldivaSky/MiseOn) · SaaS multi-tenant para food service
-        > Uma instância, várias lojas (`/sua-loja`). **PIX na plataforma (Efí Bank) com confirmação por webhook**, painel PWA com pedidos em tempo real (WebSocket) e comanda térmica, e **estoque como ledger** com baixa automática por ficha técnica. Multi-tenant com RLS e **Edge Functions (Deno)**.
-        > `React` `TypeScript` `Supabase/RLS` `Deno` `Docker` `CI/CD` · [Código](https://github.com/MaldivaSky/MiseOn)
-        >
-        > ### 🛒 [MySuperStore](https://github.com/MaldivaSky/MySuperStore) · Marketplace multi-vendedor
-        > Marketplace headless com **PIX e cartão, split automático entre lojas (Efí Bank)**, frete em tempo real (Melhor Envio), filas com Celery e Redis.
-        > `Django REST` `Next.js 15` `PostgreSQL` `Redis` `Celery` · [Demo](https://mysuperstore-lime.vercel.app) · [Código](https://github.com/MaldivaSky/MySuperStore)
-        >
-        > ### 🏛️ [Conecta Figueiredo](https://github.com/MaldivaSky/conecta-figueiredo) · Emancipação digital (setor público)
-        > Plataforma para a **Secretaria de Saúde de Presidente Figueiredo (SEMS)** — inclusão digital: cidadania (Gov.br), identidade online, empregabilidade, segurança contra golpes e IA.
-        > `React 19` `Tailwind` `Vite` · [Código](https://github.com/MaldivaSky/conecta-figueiredo)
-        >
-        > ### 🍸 [Lagoon Gastrobar](https://github.com/MaldivaSky/gastrobar-web) · Site premium + reservas
-        > Reservas em tempo real, **mapa interativo do salão em SVG**, painel admin e tour 360°. Backend serverless com Supabase e RLS.
-        > `JavaScript` `Supabase` `PostgreSQL/RLS` · [Demo](https://maldivasky.github.io/gastrobar-web/) · [Código](https://github.com/MaldivaSky/gastrobar-web)
+Marketplace headless com **split automático de receita** entre lojas, frete em tempo
+real e processamento assíncrono.
 
-        ---
+`Django REST` `Next.js 15` `PostgreSQL` `Redis` `Celery`
 
-        ## 📊 Dados & BI
+---
 
-        ### 📈 [Animaz DataAnalisys](https://github.com/MaldivaSky/Animaz-DataAnalisys)
-        Análise de dados em Python para e-commerce: tratamento, exploração e visualização que orientam decisão do time. `Python` `Pandas`
+## Serviços
 
-        ### 💰 [iContas](https://github.com/MaldivaSky/iContas)
-        Controle financeiro com categorização automática de gastos, análise por período e visualização de dados. `Python`
+| Área | O que fazemos |
+| --- | --- |
+| **Software sob medida** | Desenvolvimento de sistemas, integrações e automações, análise de dados e BI |
+| **Tecnologia da informação** | Gerenciamento de TI, e-mail corporativo, criação e manutenção de site |
+| **Marketing e presença digital** | Google Meu Negócio e SEO local, tráfego pago, identidade visual |
+| **Audiovisual e conteúdo** | Vídeo institucional e motion, edição, filmagem com drone e conteúdo social |
 
-        ---
+---
 
-        ## 🧭 Como eu trabalho
+## Como trabalhamos
 
-        ```
-        Problema do cliente → Diagnóstico → Solução sob medida → Entrega → Suporte
-        ```
+```
+Diagnóstico → Escopo, prazo e preço → Entrega com validação semanal → Aceite e garantia
+```
 
-        Não entrego template. Entrego o que resolve. Cada projeto começa com perguntas sobre o **negócio**, não sobre tecnologia.
+Começamos entendendo o processo antes de falar de tecnologia: onde o dinheiro vaza, onde
+alguém redigita, onde o erro nasce. Você aprova o escopo antes de qualquer linha de
+código — e acompanha a entrega nascer, não recebe uma caixa fechada no fim.
 
-        ---
+---
 
-        <div align="center">
+<div align="center">
 
-        ### 📊 GitHub em números
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mald1vas-Tech-Solut1ons&repo=mercadinhosys&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C9A84C&icon_color=C9A84C&text_color=F0EBE1" alt="mercadinhosys" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mald1vas-Tech-Solut1ons&repo=MiseOn&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C9A84C&icon_color=C9A84C&text_color=F0EBE1" alt="MiseOn" />
 
-        ![Stats](https://github-readme-stats.vercel.app/api?username=MaldivaSky&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C9A84C&icon_color=C9A84C&text_color=F0EBE1)
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaldivaSky&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C9A84C&text_color=F0EBE1)
+<br/>
 
-        ---
+<sub>Rafael Paiva Dias da Silva Consultoria em Tecnologia da Informação LTDA · CNPJ 68.923.239/0001-77 · São Paulo/SP</sub>
 
-        **🟢 Aberto a oportunidades** — Desenvolvedor Fullstack Pleno · Analista de Dados · Consultor de Soluções
-
-        📬 [rafaelmaldivas@gmail.com](mailto:rafaelmaldivas@gmail.com) · 🌐 [Portfólio](https://rafael-maldivas.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/rafael-paiva-dias-da-silva-022b17122/)
-
-        *"A melhor tecnologia é a que o cliente nem percebe — só sente o resultado."*
-
-        </div>
-        
+</div>
